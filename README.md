@@ -1,54 +1,18 @@
-👋 Hi, I'm Baran Alp Oduncu!
-I'm a Software Developer with a strong foundation in Electrical and Electronics Engineering and a double major in Software Engineering. I have a passion for building innovative solutions and crafting high-quality code. With hands-on experience in various technologies, I enjoy solving complex problems and working on projects that push the boundaries of technology.
+# 💫 About Me:
+👋 Hi, I'm Baran Alp Oduncu!<br>I'm a Software Developer with a strong foundation in Electrical and Electronics Engineering and a double major in Software Engineering. I have a passion for building innovative solutions and crafting high-quality code. With hands-on experience in various technologies, I enjoy solving complex problems and working on projects that push the boundaries of technology.<br><br>🛠️ Tech Stack<br>Languages: Java, Python, JavaScript, TypeScript, HTML/CSS, SQL<br>Frameworks & Libraries: React.js, Node.js, Spring Boot, Flask<br>Databases: MySQL, Oracle<br>Tools & Platforms: Raspberry Pi, Arduino, Supabase, Docker<br>APIs: RESTful Services, WebSockets<br>Other Technologies: Magic Smart Wallet, Tailwind, GTK, JBoss, Tomcat<br>🎓 Education<br>Bahcesehir University (2020-2024)<br><br>Bachelor’s in Electrical and Electronics Engineering (GPA: 3.01)<br>Bachelor’s in Software Engineering (GPA: 3.33)<br>💼 Professional Experience<br>Software Developer | Telenit (Oct 2023 - Present)<br>Founding member of a startup, collaborating with industry veterans to deliver tailored software solutions.<br>Contributed to several ongoing projects, with a focus on customer-centric solutions.<br>Software Developer | Amadeus (Oct 2023 - July 2024)<br>Worked on backend development and maintenance for large-scale projects using Java Spring Boot and Oracle.<br>Delivered reliable solutions for the travel industry across 190+ countries.<br>Software Developer | MetalMaker3D (Jun 2023 - Oct 2023)<br>Developed real-time machine control and internal communication apps in React.js.<br>Collaborated with hardware engineers to integrate software for product machines using Raspberry Pi and Arduino.<br>Software Intern | Amadeus (July 2022 - Oct 2022)<br>Created a logging system for web services using Java Spring Boot and Oracle, enabling efficient tracking of requests and responses.<br>🧑‍💻 Projects<br>NFT Marketplace<br>An NFT marketplace developed using React.js and Magic Smart Wallet, allowing users to create, transfer, buy, and sell NFTs.<br><br>Facial Recognition System<br>A Flask-powered system that scans customers in supermarkets to generate age and gender data for customer profiling and registration.<br><br>PID Control System<br>A hardware and software project that uses a distance sensor and PID control to balance a ball on a beam.<br><br>Group Chat Application<br>A real-time chat application built using PHP and WebSockets, designed for managing reports and trials for an insurance company.<br><br>Subscription Management System<br>A subscription management system with Telegram integration, built with Next.js (frontend) and .NET (backend), supporting payment methods like Stripe and cryptocurrencies.<br><br>🏆 Volunteering & Contributions<br>Longitudinal Study on Gen Z’s Work Expectations (Ata Holding, 2022): Conducted interviews and contributed to research for better understanding workplace expectations of Gen Z.<br>AI LLM RAG Assistant (LLAMA3-based): Built an AI assistant that answers employee questions based on a PDF document stored in a vector database.<br>🌐 Languages<br>English: Proficient<br>Turkish: Native<br>German: Beginner<br>📫 Contact Me<br>Email: baranalpod@gmail.com<br>LinkedIn: baranalpod<br>GitHub: barannalp<br>
 
-🛠️ Tech Stack
-Languages: Java, Python, JavaScript, TypeScript, HTML/CSS, SQL
-Frameworks & Libraries: React.js, Node.js, Spring Boot, Flask
-Databases: MySQL, Oracle
-Tools & Platforms: Raspberry Pi, Arduino, Supabase, Docker
-APIs: RESTful Services, WebSockets
-Other Technologies: Magic Smart Wallet, Tailwind, GTK, JBoss, Tomcat
-🎓 Education
-Bahcesehir University (2020-2024)
 
-Bachelor’s in Electrical and Electronics Engineering (GPA: 3.01)
-Bachelor’s in Software Engineering (GPA: 3.33)
-💼 Professional Experience
-Software Developer | Telenit (Oct 2023 - Present)
-Founding member of a startup, collaborating with industry veterans to deliver tailored software solutions.
-Contributed to several ongoing projects, with a focus on customer-centric solutions.
-Software Developer | Amadeus (Oct 2023 - July 2024)
-Worked on backend development and maintenance for large-scale projects using Java Spring Boot and Oracle.
-Delivered reliable solutions for the travel industry across 190+ countries.
-Software Developer | MetalMaker3D (Jun 2023 - Oct 2023)
-Developed real-time machine control and internal communication apps in React.js.
-Collaborated with hardware engineers to integrate software for product machines using Raspberry Pi and Arduino.
-Software Intern | Amadeus (July 2022 - Oct 2022)
-Created a logging system for web services using Java Spring Boot and Oracle, enabling efficient tracking of requests and responses.
-🧑‍💻 Projects
-NFT Marketplace
-An NFT marketplace developed using React.js and Magic Smart Wallet, allowing users to create, transfer, buy, and sell NFTs.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barannalp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barannalp) 
 
-Facial Recognition System
-A Flask-powered system that scans customers in supermarkets to generate age and gender data for customer profiling and registration.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BarannAlp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BarannAlp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarannAlp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-PID Control System
-A hardware and software project that uses a distance sensor and PID control to balance a ball on a beam.
+---
+[![](https://visitcount.itsvg.in/api?id=BarannAlp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Group Chat Application
-A real-time chat application built using PHP and WebSockets, designed for managing reports and trials for an insurance company.
-
-Subscription Management System
-A subscription management system with Telegram integration, built with Next.js (frontend) and .NET (backend), supporting payment methods like Stripe and cryptocurrencies.
-
-🏆 Volunteering & Contributions
-Longitudinal Study on Gen Z’s Work Expectations (Ata Holding, 2022): Conducted interviews and contributed to research for better understanding workplace expectations of Gen Z.
-AI LLM RAG Assistant (LLAMA3-based): Built an AI assistant that answers employee questions based on a PDF document stored in a vector database.
-🌐 Languages
-English: Proficient
-Turkish: Native
-German: Beginner
-📫 Contact Me
-Email: baranalpod@gmail.com
-LinkedIn: baranalpod
-GitHub: barannalp
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
